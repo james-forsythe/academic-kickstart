@@ -47,7 +47,7 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  color_theme = "1950s"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -293,4 +293,4 @@ enableGitInfo = false
 
 # Configure the English version of the website.
 [Languages.en]
-  languageCode = "en-us"
+  languageCode = "en-gb"
