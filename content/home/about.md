@@ -19,7 +19,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Biology"
   institution = "University of"
-  year = 20XX
+  year = 20
 
 [[education.courses]]
   course = "Master of Life Sciences"
