@@ -17,19 +17,19 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Biology"
+  institution = "University of"
+  year = 20XX
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Master of Life Sciences"
+  institution = "Kyoto University"
+  year = 2018
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BA in Natural Sciences, Plant Science specialism"
+  institution = "University of Cambridge"
+  year = 2015
  
 +++
 
